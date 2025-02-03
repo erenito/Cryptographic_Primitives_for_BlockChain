@@ -6,6 +6,3 @@ This repository implements various cryptographic techniques for blockchain syste
 1. Install required dependencies.  
 2. Clone this repository.  
 3. Follow the instructions in each folder to run examples.
-
-## Contributing
-Pull requests are welcome. Open an issue for major changes to discuss them first.
